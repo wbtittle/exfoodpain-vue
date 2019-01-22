@@ -1,0 +1,23 @@
+{
+  "categories": [
+    { "id": 1, "category": "Exercise" },
+    { "id": 2, "category": "Diet" },
+    { "id": 3, "category": "Pain" }
+  ],
+  "category_types": [
+    { "id": 1, "category_id":1, "type": "Push Ups" },
+    { "id": 2,"category_id":1, "type": "Sit Ups" },
+    { "id": 3,"category_id":1, "type": "Walking" },
+    { "id": 4,"category_id":1, "type": "Running" },
+    { "id": 5,"category_id":1, "type": "Biking" },
+    { "id": 6,"category_id":1, "type": "Kayaking" },
+    { "id": 10,"category_id":1, "type": "Curling" },
+    { "id": 11,"category_id":2, "type": "Breakfast" },
+    { "id": 12,"category_id":2, "type": "Lunch" },
+    { "id": 13,"category_id":2, "type": "Dinner" },
+    { "id": 14,"category_id":3, "type": "Inflamation" },
+    { "id": 14,"category_id":3, "type": "Headache" },
+    { "id": 14,"category_id":3, "type": "Back Pain" },
+    { "id": 14,"category_id":3, "type": "Stomach Pain" },
+  ]
+}
