@@ -1,10 +1,6 @@
 <template>
   <div class="header">
     <h1>{{ msg }}</h1>
-    <p>
-      Tracking
-      <a href="https://cli.vuejs.org" target="_blank" rel="noopener">vue-cli documentation</a>.
-    </p>
     <a class="button is-medium is-rounded is-warning" @click="">
       Ate Something
     </a>
